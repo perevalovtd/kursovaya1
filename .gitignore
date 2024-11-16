@@ -1,3 +1,12 @@
+.gitignore
+*.make
+*.rc
+*.sln
+*vcxproj*
+obj
+bin
+.vs
+
 # Prerequisites
 *.d
 
